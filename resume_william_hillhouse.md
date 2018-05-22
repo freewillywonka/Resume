@@ -45,7 +45,7 @@ further my understanding in the Java programming language.
 
 **EXPERIENCE**
 
-**Technology Expert 2018 - Present**
+**Technology Expert (2018 – Present)**
 
 MSI Atlas
 
@@ -69,7 +69,7 @@ aimed at eliminating paper trail.
 
 -   Office 365/Exchange user account management
 
-**Java Boot Camp Instructor 2017 - 2018**
+**Java Boot Camp Instructor (2017 – 2018)**
 
 Hosted a Java programming boot camp using Coursera’s Java classes as curriculum.
 I taught through the 5 course specialization called, “Programming and Software
@@ -89,7 +89,7 @@ provided me with better mentoring and teaching skills.
 
 -   Course 5: Java Programming: Build a Recommendation System
 
-**Software Engineer 2013 - 2017**
+**Software Engineer (2013 – 2017)**
 
 Dell Technologies
 
@@ -121,7 +121,7 @@ several product releases.
 
 -   Created several debug wrapper functions in C and C++
 
-**Software Intern 2012 - 2013**
+**Software Intern (2012 – 2013)**
 
 Dell Technologies
 
@@ -132,25 +132,25 @@ the lab.
 
 **EDUCATION**
 
-**B.S. in Computer Engineering June 2013**
+**B.S. in Computer Engineering (June 2013)**
 
-University of California, Irvine 2010 - 2013
+University of California, Irvine (2010 – 2013)
 
 -   Undergraduate Coursework: Data Structures, Algorithms, Computer
     Architecture, Databases, Circuits, Semiconductors, Analog & Digital Signals
     & Systems, Engineering and Writing
 
--   Clubs and Offices held: Lab manager & Secretary for UCI IEEE 2011 – 2013
+-   Clubs and Offices held: Lab manager & Secretary for UCI IEEE (2011 – 2013)
 
 -   Keyframe Animated Crane & Porsche (<https://youtu.be/lf-_GxzBH-g>)
 
-Long Beach City College 2005 - 2010
+Long Beach City College (2005 – 2010)
 
 -   G.E. Coursework: Calculus, Differential Equations, Linear Algebra, E&M
     Physics, Modern Physics, Thermodynamics, Optics, Intro to C++ Programming,
     Intro to Speech
 
--   Clubs and Offices held: Webmaster & V.P. of Fundraising for AGS KAPPA 2007 -
-    2010
+-   Clubs and Offices held: Webmaster & V.P. of Fundraising for AGS KAPPA (2007
+    – 2010)
 
 -   2nd place MATE Underwater ROV competition (<https://youtu.be/fNchPvwWjq0>)
