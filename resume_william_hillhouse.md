@@ -140,7 +140,9 @@ University of California, Irvine 2010 - 2013
     Architecture, Databases, Circuits, Semiconductors, Analog & Digital Signals
     & Systems, Engineering and Writing
 
--   Clubs and Offices held: Lab manager & Secretary for UCI IEEE 2011 - 2013
+-   Clubs and Offices held: Lab manager & Secretary for UCI IEEE 2011 – 2013
+
+-   Keyframe Animated Crane & Porsche (<https://youtu.be/lf-_GxzBH-g>)
 
 Long Beach City College 2005 - 2010
 
@@ -151,5 +153,4 @@ Long Beach City College 2005 - 2010
 -   Clubs and Offices held: Webmaster & V.P. of Fundraising for AGS KAPPA 2007 -
     2010
 
--   2nd place [MATE 2008 Underwater ROV](https://youtu.be/fNchPvwWjq0)
-    competition.
+-   2nd place MATE Underwater ROV competition (<https://youtu.be/fNchPvwWjq0>)
