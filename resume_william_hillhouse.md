@@ -1,3 +1,9 @@
+**William L. Hillhouse III**  
+3517 Canehill Ave.  
+Long Beach, CA 90808  
+562-257-8548  
+<whillhou@uci.edu>
+
 **SUMMARY**
 
 I am driven to help people and committed to developing software engineering
