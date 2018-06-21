@@ -11,7 +11,7 @@ skills to achieve this goal. I am able to work independently, but my strength is
 collaboration. I have experience packaging third party software and running
 automated testing in a continuous integration environment. In addition, I have
 experience writing scripts to support remote automated installs via SOAP web
-service calls. VMware is my friend. Java programming is my most recent area of
+service calls. VMware is my friend. Although I have studied many programming languages, Java programming is my most recent area of
 study and practice. I desire a position where I can deepen my DevOps skills and
 further my understanding in the Java programming language.
 
@@ -37,6 +37,8 @@ further my understanding in the Java programming language.
 
 -   Some experience with SOAP/REST web service calls
 
+-   Some experience with JavaScript, Angular.js, Python, Ruby
+
 -   Agile Scrum Methodologies
 
 -   Software Design Patterns
@@ -49,9 +51,7 @@ further my understanding in the Java programming language.
 
 MSI Atlas
 
-Providing support and consultation for Mover Services, Inc. and working closely
-with a 3rd party developer who is providing an all-in-one software solution
-aimed at eliminating paper trail.
+Providing support and consultation for Mover Services, Inc. and working closely with a 3rd party developer who is creating customized software for enterprise resource planning (ERP). Also working with the IT department to maintain Mover Service’s software for content resource management (CRM).
 
 **Accomplishments**
 
@@ -68,6 +68,10 @@ aimed at eliminating paper trail.
 -   AD user account management
 
 -   Office 365/Exchange user account management
+
+-   Designing Access/Excel Report Forms
+
+-   Providing support for ERP and CRM software
 
 **Java Boot Camp Instructor…………………………………………………...(2017 – 2018)**
 
